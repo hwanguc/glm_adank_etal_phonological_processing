@@ -1,5 +1,5 @@
 # glm_adank_etal_phonological_processing
-This respiratory contains the data and R code (generalised linear models) for the the dual-task experiments in Adank et al. (under review).
+This respiratory contains the data and R code (generalised linear models) for the the dual-task experiment in Adank et al. (under review).
 
 **Data (the files below are required for replicating the analyses covered in the paper)**:
 

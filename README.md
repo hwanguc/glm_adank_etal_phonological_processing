@@ -10,4 +10,4 @@ This respiratory contains the data and R code (generalised linear models) for th
 
 **R code**:
 
-**_Figures_and_Models_v1.R_** - The R code for producing the figures and analysing the data (generalised linear models - most updated analysis for publication purpose).
+**_Figures_and_Models_v2.R_** - The latest R code for producing the figures and analysing the data (generalised linear models - most updated analysis for publication purpose).

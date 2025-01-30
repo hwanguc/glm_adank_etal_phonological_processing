@@ -5,7 +5,7 @@ This respiratory contains the data and R code (generalised linear models) for th
 
 **_dat_dysarthric_alltasks_replaced5.csv_** - data for the main task in the experiment.
 
-**_dat_questionnaire_long.csv_** - Data for the post-experiment questionnaire in Experiment 1.
+**_dat_questionnaire_long.csv_** - Data for the post-experiment questionnaire.
 
 
 **R code**:
